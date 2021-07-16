@@ -1,0 +1,117 @@
+﻿  duktape.c
+  CollisionMediator.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(20,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(20,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(27,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(27,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(34,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(34,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(43,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(43,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(49,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(49,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(58,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(58,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(66,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\CollisionMediator.cpp(66,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DeathHandler.cpp
+  DrawAsEllipse.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EllipseShape.h(13,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EllipseShape.h(13,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\DrawAsEllipse.cpp(13,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\DrawAsEllipse.cpp(13,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  DrawAsRectangle.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\DrawAsRectangle.cpp(14,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\DrawAsRectangle.cpp(14,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Event.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Event.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+  EventManager.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EventManager.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EventManager.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EventManager.cpp(125,21): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EventManager.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+  Food.cpp
+  GameObject.cpp
+  GameTimeline.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\GameTimeline.cpp(16,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\GameTimeline.cpp(19,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\GameTimeline.cpp(24,23): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  InputHandler.cpp
+  Player.cpp
+  RealTimeline.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\RealTimeline.cpp(11,92): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  ScriptManager.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+  Server.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): warning C4244: 'argument': conversion from 'uint64_t' to 'duk_double_t', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(41,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<uint64_t>::push(duk_context *,uint64_t)'
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): warning C4244: 'argument': conversion from 'int64_t' to 'duk_double_t', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\lib\dukglue-master\include\dukglue\detail_primitive_types.h(46,1): message : This diagnostic occurred in the compiler generated function 'void dukglue::types::DukType<int64_t>::push(duk_context *,int64_t)'
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Server.cpp(60,31): warning C4018: '<': signed/unsigned mismatch
+  ServerEventHandler.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\ScriptManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SnakePiece.cpp
+  Wall.cpp
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Wall.cpp(8,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Wall.cpp(8,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\EventManager.cpp(144): warning C4715: 'EventManager::getEventsForServer': not all control paths return a value
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Event.cpp(35): warning C4715: 'Event::getFloatArg': not all control paths return a value
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Event.cpp(54): warning C4715: 'Event::getPlayerArg': not all control paths return a value
+D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Server\Event.cpp(18): warning C4715: 'Event::getArg': not all control paths return a value
+  Server.vcxproj -> D:\Users\Danielle\Documents\CSC 591 Game Engine Foundations\Snake\Debug\Server.exe
